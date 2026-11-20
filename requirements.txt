@@ -1,0 +1,6 @@
+streamlit
+pandas
+rdkit
+py3Dmol
+stmol
+openpyxl
