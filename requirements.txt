@@ -4,3 +4,5 @@ rdkit
 py3Dmol
 stmol
 openpyxl
+ipywidgets
+ipython_genutils
